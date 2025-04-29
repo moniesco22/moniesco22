@@ -1,6 +1,6 @@
 ## Hello, I'm Monica ✨
 💻 I'm a passionate developer who loves building projects that blend creativity and functionality.<br>
-📚 Currently, I'm a Computer Science student at the University of Cincinnati.<br>
+📚 Currently, I'm a student at the University of Cincinnati, majoring in Computer Science.<br>
 <br>I'm always looking for opportunities to learn, grow, and collaborate on exciting projects!<br><br>
 
 ## 🌐 Socials:
